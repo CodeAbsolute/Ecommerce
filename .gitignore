@@ -2,7 +2,7 @@ sendgrid.env
 /config/config.env
 /backend/config.js
 *.env
-node_modules
+
 *.json
 
 # dependencies
