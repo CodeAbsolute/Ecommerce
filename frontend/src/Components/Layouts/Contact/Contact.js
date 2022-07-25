@@ -5,8 +5,8 @@ import { Button } from "@mui/material";
 const Contact = () => {
   return (
     <div className="contactContainer">
-      <a className="mailBtn" href="mailto:maheshgajakosh15ga@gmail.com">
-        <Button>Contact: maheshgajakosh15ga@gmail.com</Button>
+      <a className="mailBtn" href="mailto:maheshgajakosh15@gmail.com">
+        <Button>Contact: maheshgajakosh15@gmail.com</Button>
       </a>
     </div>
   );
