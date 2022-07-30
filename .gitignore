@@ -1,7 +1,7 @@
 sendgrid.env
 /config/config.env
-/backend/config.js
-*.env
+
+/backend/.env
 
 
 

@@ -33,5 +33,8 @@
     "react-js-pagination": "^3.0.3",
     "stripe": "^8.199.0",
     "validator": "^13.7.0"
+  },
+  "engines": {
+    "node": "16.13.1"
   }
 }
