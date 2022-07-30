@@ -1,3 +1,5 @@
+require("dotenv").config({ path: "../.env" });
+
 module.exports = {
   user: process.env.user,
   clientId: process.env.clientId,
