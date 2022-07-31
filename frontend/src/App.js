@@ -75,7 +75,7 @@ function App() {
         families: ["Roboto", "Droid Sans", "Chilanka"],
       },
     });
-    isAuthenticated && store.dispatch(loadUser());
+    store.dispatch(loadUser());
   }, []);
 
   // getting  the stripe api key
